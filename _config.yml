@@ -6,13 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jie Zhang (张杰)"
-description              : "Master student at Zhejiang University. "
-repository               : "zj-jayzhang/zj-jayzhang.github.io"
+title                    : "Dayu Hu(胡达宇)"
+description              : "PHD student at NUDT. "
+repository               : "DayuHuu/DayuHuu.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
+google_analytics_id      : AKdv5-0AAAAJ
 
 # SEO Related
 google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
@@ -21,14 +21,14 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Jie Zhang (张杰)"
+  name             : "Dayu Hu(胡达宇)"
   avatar           : "images/jay.jpeg"
-  bio              : "Zhejiang University"
+  bio              : "NUDT University"
   location         : "Hangzhou"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.hk/citations?user=soDBSE8AAAAJ&hl=zh-CN"
-  email            : "zj_zhangjie@zju.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=AKdv5-0AAAAJ"
+  email            : "hzauhdy@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zj-jayzhang"
+  github           : "DayuHuu"
   google_plus      :
   keybase          :
   instagram        :
