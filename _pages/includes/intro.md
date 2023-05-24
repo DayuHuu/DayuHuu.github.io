@@ -1,6 +1,6 @@
 # 🧐 About Me
 
-Hi! I am a master student in Software Engineering at Zhejiang University, advised by Prof. [Chao Wu](https://scholar.google.com.hk/citations?user=gpTPt58AAAAJ&hl=zh-CN). Before that, I received my Bachelor degree in the CS Department, Hainan University in July 2020.
+Hi!  I am a PHD student in Computer Science at National University of Defense Technology, advised by Prof. [Xinwang Liu](https://scholar.google.com.hk/citations?user=A56vWC4AAAAJ&hl=zh-CN&oi=ao). Before that, I received my Master degree in the BME Department, Northeastern University in July 2022.
 
 **Research Interests**: I am mainly interested in data-centric AI or data-driven machine learning, including data security, data efficiency, and data-related applications. My research investigates how to elevate data-centric approaches to improving the performance of machine learning models. My long-term research goal is to mine the role of data in AI, and to democratize AI to serve a broader area and population. Currently, I am focusing on these research topics:
 - Data Efficiency: Data-Free Knowledge Distillation, Dataset Condensation
