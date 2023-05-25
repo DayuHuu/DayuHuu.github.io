@@ -2,7 +2,7 @@
 # 📝 Publications 
 
 
-[scDFC: A deep fusion clustering method for single-cell RNA-seq data](10.1093/bib/bbad216) \\
+[scDFC: A deep fusion clustering method for single-cell RNA-seq data](https://apps.crossref.org/pendingpub/pendingpub.html?doi=10.1093%2Fbib%2Fbbad216) \\
 <b>Dayu Hu</b>, Liang Ke, Zhou Sihang, Tu Wenxuan, Liu Meng, Liu Xinwang<sup>#</sup>. 
 
 [A surface-enhanced Raman scattering-based probe method for detecting chromogranin A in adrenal tumors](https://www.futuremedicine.com/doi/abs/10.2217/nnm-2019-0436) \\
