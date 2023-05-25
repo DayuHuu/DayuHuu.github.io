@@ -12,3 +12,10 @@ Xiaoyu Cui, Tao Liu, Xiaosong Xu, Zeyin Zhao, Ye Tian, Yue Zhao, Shuo Chen, Zhe 
 
 [A surface-enhanced Raman scattering-based probe method for detecting chromogranin A in adrenal tumors](https://www.futuremedicine.com/doi/abs/10.2217/nnm-2019-0436) \\
 Xiaoyu Cui, <b>Dayu Hu</b>, Chengyuan Wang, Shuo Chen, Zeyin Zhao, Xiaosong Xu, Yudong Yao, Tao Liu<sup>#</sup>. 
+
+[Application of Deep Learning in Histopathology Images of Breast Cancer: A Review](https://www.mdpi.com/2072-666X/13/12/2197) \\
+Yue Zhao, Jie Zhang, <b>Dayu Hu</b>, Hui Qu, Ye Tian, Xiaoyu Cui<sup>#</sup>. 
+
+[Investigating the genealogy of the literature on digital pathology: a two-dimensional bibliometric approach](https://link.springer.com/article/10.1007/s11192-021-04224-2) \\
+<b>Dayu Hu</b>, Chengyuan Wang, Song Zheng, Xiaoyu Cui<sup>#</sup>. 
+
