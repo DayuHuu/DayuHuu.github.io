@@ -12,7 +12,7 @@
 
 
 ### Travel
-I enjoy the time traveling with my families and friends. I am always excited about visiting new places and knowing different cultures.
+I enjoy the time traveling with my families and . I am always excited about visiting new places and knowing different cultures.
 
 
 
