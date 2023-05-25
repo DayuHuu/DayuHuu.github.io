@@ -7,5 +7,8 @@ Xiaoyu Cui, Tao Liu, Xiaosong Xu, Zeyin Zhao, Ye Tian, Yue Zhao, Shuo Chen, Zhe 
 [Detecting urine metabolites of bladder cancer by surface-enhanced Raman spectroscopy](https://www.sciencedirect.com/science/article/abs/pii/S1386142520310878) \\
 <b>Dayu Hu</b>, Xiaosong Xu, Zeyin Zhao, Changqi Li, Ye Tian, Qiang Liu, Bo Shao, Shuo Chen, Yue Zhao, Ling Li, Huan Bi, Ang Chen, Cheng Fu, Xiaoyu Cui, Yu Zeng<sup>#</sup>. 
 
-[Detecting urine metabolites of bladder cancer by surface-enhanced Raman spectroscopy](https://www.sciencedirect.com/science/article/abs/pii/S1386142520310878) \\
-<b>Dayu Hu</b>, Xiaosong Xu, Zeyin Zhao, Changqi Li, Ye Tian, Qiang Liu, Bo Shao, Shuo Chen, Yue Zhao, Ling Li, Huan Bi, Ang Chen, Cheng Fu, Xiaoyu Cui, Yu Zeng<sup>#</sup>. 
+[Sorting technology for circulating tumor cells based on microfluidics](https://pubs.acs.org/doi/abs/10.1021/acscombsci.0c00157) \\
+<b>Dayu Hu</b>, He Liu, Ye Tian, Zhi Li, Xiaoyu Cui<sup>#</sup>. 
+
+[A surface-enhanced Raman scattering-based probe method for detecting chromogranin A in adrenal tumors](https://www.futuremedicine.com/doi/abs/10.2217/nnm-2019-0436) \\
+Xiaoyu Cui, <b>Dayu Hu</b>, Chengyuan Wang, Shuo Chen, Zeyin Zhao, Xiaosong Xu, Yudong Yao, Tao Liu<sup>#</sup>. 
