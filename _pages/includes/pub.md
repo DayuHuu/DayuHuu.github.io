@@ -4,8 +4,8 @@
 
 
 
-[Label-free detection of multiple genitourinary cancers from urine by surface-enhanced Raman spectroscopy](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Towards_Efficient_Data_Free_Black-Box_Adversarial_Attack_CVPR_2022_paper.html) \\
-<b>Jie Zhang</b>, Xiaoyu Cui, Tao Liu, Xiaosong Xu, Zeyin Zhao, Ye Tian, Yue Zhao, Shuo Chen, Zhe Wang, Yiding Wang, Dayu Hu, Shui Fu, Guangyi Shan, Jiarun Sun, Kaixin Song, Yu Zeng<sup>#</sup>. 
+[Label-free detection of multiple genitourinary cancers from urine by surface-enhanced Raman spectroscopy](https://www.sciencedirect.com/science/article/abs/pii/S1386142520305229) \\
+Xiaoyu Cui, Tao Liu, Xiaosong Xu, Zeyin Zhao, Ye Tian, Yue Zhao, Shuo Chen, Zhe Wang, Yiding Wang, <b>Dayu Hu</b>, Shui Fu, Guangyi Shan, Jiarun Sun, Kaixin Song, Yu Zeng<sup>#</sup>. 
 
 - In this paper, by rethinking the collaborative relationship between the generator and the substitute model, we design a novel black-box attack framework. The proposed method can efficiently imitate the target model through a small number of queries and achieve high attack success rate.
 
