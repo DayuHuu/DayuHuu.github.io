@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Dayu Hu(胡达宇)"
-description              : "PHD student at NUDT. "
+description              : "PHD student at National University of Defense Technology. "
 repository               : "DayuHuu/DayuHuu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,13 +23,13 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Dayu Hu(胡达宇)"
   avatar           : "images/jay.jpeg"
-  bio              : "NUDT University"
+  bio              : "NUDT"
   location         : "Changsha"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=AKdv5-0AAAAJ"
   email            : "hzauhdy@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Dayu-Hu"
   uri              :
   bitbucket        :
   codepen          :
