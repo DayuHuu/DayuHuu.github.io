@@ -3,11 +3,9 @@
 (<sup>*</sup> indicates equal contribution;  <sup>#</sup> indicates corresponding authorship.) 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/cvpr22.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[Towards Efficient Data-Free Black-box Adversarial Attack](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Towards_Efficient_Data_Free_Black-Box_Adversarial_Attack_CVPR_2022_paper.html) \\
-<b>Jie Zhang</b>, Bo Li, Jianghe Xu, Shuang Wu, Shouhong Ding, Chao Wu<sup>#</sup>. (CVPR 2022) <a href="https://github.com/zj-jayzhang/Data-Free-Transfer-Attack">code</a> 
+[Label-free detection of multiple genitourinary cancers from urine by surface-enhanced Raman spectroscopy](https://openaccess.thecvf.com/content/CVPR2022/html/Zhang_Towards_Efficient_Data_Free_Black-Box_Adversarial_Attack_CVPR_2022_paper.html) \\
+<b>Jie Zhang</b>, Xiaoyu Cui, Tao Liu, Xiaosong Xu, Zeyin Zhao, Ye Tian, Yue Zhao, Shuo Chen, Zhe Wang, Yiding Wang, Dayu Hu, Shui Fu, Guangyi Shan, Jiarun Sun, Kaixin Song, Yu Zeng<sup>#</sup>. 
 
 - In this paper, by rethinking the collaborative relationship between the generator and the substitute model, we design a novel black-box attack framework. The proposed method can efficiently imitate the target model through a small number of queries and achieve high attack success rate.
 
