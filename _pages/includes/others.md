@@ -5,7 +5,9 @@
 
 
 # 💬 Services
-- Journal Reviewer: 
+- Journal Reviewer:
+    - IEEE Transactions on Neural Networks and Learning Systems
+    - Briefings in Bioinformatics
     - The Visual Computer
 - Conference Reviewer: None.
 
