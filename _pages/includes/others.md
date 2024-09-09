@@ -6,15 +6,18 @@
 
 # 💬 Services
 - Journal Reviewer:
+    - IEEE Transactions on Knowledge and Data Engineering
     - IEEE Transactions on Neural Networks and Learning Systems
+    - ACM Transactions on Multimedia Computing, Communications and Applications
+    - IEEE Journal of Biomedical and Health Informatics
     - Briefings in Bioinformatics
-    - The Visual Computer
-- Conference Reviewer: None.
+    - Pattern Recognition
+    - Neural Networks
+    - Expert Systems With Applications
+    - And so on
+- Conference Reviewer:
+    - NeurIPS/ICLR/AAAI/ACM MM/ICME
 
-
-
-### Travel
-I enjoy the time traveling with my families and little jiajia. I am always excited about visiting new places and knowing different cultures.
 
 
 
