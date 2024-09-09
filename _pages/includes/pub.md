@@ -1,7 +1,7 @@
 
 # 📝 Publications 
-
-
+[Reliable Attribute-missing Multi-view Clustering with Instance-level and feature-level Cooperative Imputation](https://openreview.net/forum?id=peyB8AbCdY) \\
+<b>Dayu Hu</b>, Liang Ke, Zhou Sihang, Tu Wenxuan, Liu Meng, Liu Xinwang<sup>#</sup>. 
 [scDFC: A deep fusion clustering method for single-cell RNA-seq data](https://apps.crossref.org/pendingpub/pendingpub.html?doi=10.1093%2Fbib%2Fbbad216) \\
 <b>Dayu Hu</b>, Liang Ke, Zhou Sihang, Tu Wenxuan, Liu Meng, Liu Xinwang<sup>#</sup>. 
 
