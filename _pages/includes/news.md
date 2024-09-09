@@ -1,7 +1,7 @@
 # 🔥 News
 
 
-- *2023.05*: One paper is accepted by Briefings in Bioinformatics!
+- *2024.09*: One paper is accepted by Briefings in Bioinformatics!
 
 
   
