@@ -1,6 +1,6 @@
 # 🧐 About Me
 
-Hi!  I am a PHD student in Computer Science at National University of Defense Technology, advised by Prof. [Xinwang Liu](https://scholar.google.com.hk/citations?user=A56vWC4AAAAJ&hl=zh-CN&oi=ao). Before that, I received my Master degree in the BME Department, Northeastern University in July 2022.
+Hi!  I am a PHD student in Computer Science at National University of Defense Technology, advised by Prof. [Xinwang Liu](https://scholar.google.com.hk/citations?user=A56vWC4AAAAJ&hl=zh-CN&oi=ao). Before that, I received my Master degree in the BME Department, advised by Prof. [Xiaoyu Cui](https://scholar.google.com/citations?user=wDg0KzYAAAAJ&hl=zh-CN&oi=ao), Northeastern University in July 2022.
 
 **Research Interests**: 
 
