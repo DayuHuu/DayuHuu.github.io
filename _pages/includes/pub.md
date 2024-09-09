@@ -9,14 +9,14 @@
 [Effective multi-modal clustering method via skip aggregation network for parallel scRNA-seq and scATAC-seq data](https://academic.oup.com/bib/article/25/2/bbae102/7630472) \\
 <b>Dayu Hu</b>, Ke Liang, Zhibin Dong, Jun Wang, Yawei Zhao, Kunlun He<sup>#</sup>. 
 
+[scDFC: A deep fusion clustering method for single-cell RNA-seq data](https://apps.crossref.org/pendingpub/pendingpub.html?doi=10.1093%2Fbib%2Fbbad216) \\
+<b>Dayu Hu</b>, Liang Ke, Zhou Sihang, Tu Wenxuan, Liu Meng, Liu Xinwang<sup>#</sup>. 
+
 [Tmac: Temporal multi-modal graph learning for acoustic event classification](https://dl.acm.org/doi/abs/10.1145/3581783.3611853) \\
 Meng Liu, Ke Liang, <b>Dayu Hu</b>, Hao Yu, Yue Liu, Lingyuan Meng, Wenxuan Tu, Sihang Zhou, Xinwang Liu<sup>#</sup>. 
 
 [Dual-channel prototype network for few-shot pathology image classification](https://ieeexplore.ieee.org/abstract/document/10494883/) \\
 Hao Quan, Xinjia Li, <b>Dayu Hu</b>, Tianhang Nan, Xiaoyu Cui<sup>#</sup>. 
-
-[scDFC: A deep fusion clustering method for single-cell RNA-seq data](https://apps.crossref.org/pendingpub/pendingpub.html?doi=10.1093%2Fbib%2Fbbad216) \\
-<b>Dayu Hu</b>, Liang Ke, Zhou Sihang, Tu Wenxuan, Liu Meng, Liu Xinwang<sup>#</sup>. 
 
 [A surface-enhanced Raman scattering-based probe method for detecting chromogranin A in adrenal tumors](https://www.futuremedicine.com/doi/abs/10.2217/nnm-2019-0436) \\
 Xiaoyu Cui, <b>Dayu Hu</b>, Chengyuan Wang, Shuo Chen, Zeyin Zhao, Xiaosong Xu, Yudong Yao, Tao Liu<sup>#</sup>. 
