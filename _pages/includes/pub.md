@@ -9,8 +9,8 @@
 [Effective multi-modal clustering method via skip aggregation network for parallel scRNA-seq and scATAC-seq data](https://academic.oup.com/bib/article/25/2/bbae102/7630472) \\
 <b>Dayu Hu</b>, Ke Liang, Zhibin Dong, Jun Wang, Yawei Zhao, Kunlun He<sup>#</sup>. 
 
-[Reliable Attribute-missing Multi-view Clustering with Instance-level and feature-level Cooperative Imputation](https://openreview.net/forum?id=peyB8AbCdY) \\
-<b>Dayu Hu</b>, Suyuan Liu, Jun Wang, Junpu Zhang, Siwei Wang, Xingchen Hu, Xinzhong Zhu, Chang Tang, Xinwang Liu<sup>#</sup>. 
+[Tmac: Temporal multi-modal graph learning for acoustic event classification](https://dl.acm.org/doi/abs/10.1145/3581783.3611853) \\
+Meng Liu, Ke Liang, <b>Dayu Hu</b>, Hao Yu, Yue Liu, Lingyuan Meng, Wenxuan Tu, Sihang Zhou, Xinwang Liu<sup>#</sup>. 
 
 [scDFC: A deep fusion clustering method for single-cell RNA-seq data](https://apps.crossref.org/pendingpub/pendingpub.html?doi=10.1093%2Fbib%2Fbbad216) \\
 <b>Dayu Hu</b>, Liang Ke, Zhou Sihang, Tu Wenxuan, Liu Meng, Liu Xinwang<sup>#</sup>. 
