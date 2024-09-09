@@ -12,6 +12,9 @@
 [Tmac: Temporal multi-modal graph learning for acoustic event classification](https://dl.acm.org/doi/abs/10.1145/3581783.3611853) \\
 Meng Liu, Ke Liang, <b>Dayu Hu</b>, Hao Yu, Yue Liu, Lingyuan Meng, Wenxuan Tu, Sihang Zhou, Xinwang Liu<sup>#</sup>. 
 
+[Dual-channel prototype network for few-shot pathology image classification](https://ieeexplore.ieee.org/abstract/document/10494883/) \\
+Hao Quan, Xinjia Li, <b>Dayu Hu</b>, Tianhang Nan, Xiaoyu Cui<sup>#</sup>. 
+
 [scDFC: A deep fusion clustering method for single-cell RNA-seq data](https://apps.crossref.org/pendingpub/pendingpub.html?doi=10.1093%2Fbib%2Fbbad216) \\
 <b>Dayu Hu</b>, Liang Ke, Zhou Sihang, Tu Wenxuan, Liu Meng, Liu Xinwang<sup>#</sup>. 
 
