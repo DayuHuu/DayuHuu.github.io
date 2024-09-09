@@ -6,8 +6,8 @@
 [High-order Topology for Deep Single-cell Multi-view Fuzzy Clustering](https://ieeexplore.ieee.org/abstract/document/10529589/) \\
 <b>Dayu Hu</b>, Zhibin Dong, Ke Liang, Hao Yu, Siwei Wang, Xinwang Liu<sup>#</sup>. 
 
-[Reliable Attribute-missing Multi-view Clustering with Instance-level and feature-level Cooperative Imputation](https://openreview.net/forum?id=peyB8AbCdY) \\
-<b>Dayu Hu</b>, Suyuan Liu, Jun Wang, Junpu Zhang, Siwei Wang, Xingchen Hu, Xinzhong Zhu, Chang Tang, Xinwang Liu<sup>#</sup>. 
+[Effective multi-modal clustering method via skip aggregation network for parallel scRNA-seq and scATAC-seq data](https://academic.oup.com/bib/article/25/2/bbae102/7630472) \\
+<b>Dayu Hu</b>, Ke Liang, Zhibin Dong, Jun Wang, Yawei Zhao, Kunlun He<sup>#</sup>. 
 
 [Reliable Attribute-missing Multi-view Clustering with Instance-level and feature-level Cooperative Imputation](https://openreview.net/forum?id=peyB8AbCdY) \\
 <b>Dayu Hu</b>, Suyuan Liu, Jun Wang, Junpu Zhang, Siwei Wang, Xingchen Hu, Xinzhong Zhu, Chang Tang, Xinwang Liu<sup>#</sup>. 
